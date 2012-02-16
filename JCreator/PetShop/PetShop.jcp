@@ -1,0 +1,44 @@
+! ** JCreator Project File (C)2000
+! ********** DO NOT EDIT *********
+
+VERSION := "1.10"
+LABEL := "PetShop"
+JDKPROFILE := ""
+ACTIVE := "1"
+OUTPUTPATH := "..\\\\PetShop"
+COMPILER := ""
+
+! Start RunTime Configuration Structure
+#[BeginRunTime]LABEL := "<Default>" RUNAPPLIC := "" RUNAPPLET := "" PARAM := "" RUN := "com.earth2me.school.petshop.Pets" CHECK := "10" #[EndRunTime]
+! Start Required Libraries Structure
+
+! Start Project Folder Structure
+#[BeginFolder]
+LABEL := "Root"
+FILTER := ""
+
+#[BeginFolder]
+LABEL := "com.earth2me.school.petshop"
+FILTER := ""
+
+#[BeginFile]SOURCE := "..\\..\\PetShop\\src\\com\\earth2me\\school\\petshop\\WhiteCat.java" #[EndFile]
+#[BeginFile]SOURCE := "..\\..\\PetShop\\src\\com\\earth2me\\school\\petshop\\TextPerformer.java" #[EndFile]
+#[BeginFile]SOURCE := "..\\..\\PetShop\\src\\com\\earth2me\\school\\petshop\\Snake.java" #[EndFile]
+#[BeginFile]SOURCE := "..\\..\\PetShop\\src\\com\\earth2me\\school\\petshop\\Pets.java" #[EndFile]
+#[BeginFile]SOURCE := "..\\..\\PetShop\\src\\com\\earth2me\\school\\petshop\\Pet.java" #[EndFile]
+#[BeginFile]SOURCE := "..\\..\\PetShop\\src\\com\\earth2me\\school\\petshop\\Parrot.java" #[EndFile]
+#[BeginFile]SOURCE := "..\\..\\PetShop\\src\\com\\earth2me\\school\\petshop\\Owl.java" #[EndFile]
+#[BeginFile]SOURCE := "..\\..\\PetShop\\src\\com\\earth2me\\school\\petshop\\IFluffy.java" #[EndFile]
+#[BeginFile]SOURCE := "..\\..\\PetShop\\src\\com\\earth2me\\school\\petshop\\IConverse.java" #[EndFile]
+#[BeginFile]SOURCE := "..\\..\\PetShop\\src\\com\\earth2me\\school\\petshop\\IColored.java" #[EndFile]
+#[BeginFile]SOURCE := "..\\..\\PetShop\\src\\com\\earth2me\\school\\petshop\\IActionPerformer.java" #[EndFile]
+#[BeginFile]SOURCE := "..\\..\\PetShop\\src\\com\\earth2me\\school\\petshop\\IActionHandler.java" #[EndFile]
+#[BeginFile]SOURCE := "..\\..\\PetShop\\src\\com\\earth2me\\school\\petshop\\GoldenRetriever.java" #[EndFile]
+#[BeginFile]SOURCE := "..\\..\\PetShop\\src\\com\\earth2me\\school\\petshop\\Dog.java" #[EndFile]
+#[BeginFile]SOURCE := "..\\..\\PetShop\\src\\com\\earth2me\\school\\petshop\\Color.java" #[EndFile]
+#[BeginFile]SOURCE := "..\\..\\PetShop\\src\\com\\earth2me\\school\\petshop\\Chihuahua.java" #[EndFile]
+#[BeginFile]SOURCE := "..\\..\\PetShop\\src\\com\\earth2me\\school\\petshop\\Cat.java" #[EndFile]
+#[BeginFile]SOURCE := "..\\..\\PetShop\\src\\com\\earth2me\\school\\petshop\\BlackCat.java" #[EndFile]
+#[BeginFile]SOURCE := "..\\..\\PetShop\\src\\com\\earth2me\\school\\petshop\\Bird.java" #[EndFile]
+#[EndFolder]
+#[EndFolder]
