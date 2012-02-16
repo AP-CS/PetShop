@@ -1,4 +1,4 @@
-package com.earth2me.school;
+package com.earth2me.school.petshop;
 
 import java.util.HashMap;
 import java.util.Map;

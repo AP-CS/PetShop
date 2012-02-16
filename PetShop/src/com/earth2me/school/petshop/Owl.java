@@ -1,4 +1,4 @@
-package com.earth2me.school;
+package com.earth2me.school.petshop;
 
 /**
  * A pet owl.
@@ -34,7 +34,7 @@ final class Owl extends Bird implements IConverse
 	}
 
 	/**
-	 * @see com.earth2me.school.IConverse#converse(java.lang.String)
+	 * @see com.earth2me.school.petshop.IConverse#converse(java.lang.String)
 	 */
 	@Override
 	public String converse(String query)

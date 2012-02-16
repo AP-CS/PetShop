@@ -1,4 +1,4 @@
-package com.earth2me.school;
+package com.earth2me.school.petshop;
 
 /**
  * Describes a pet dog.

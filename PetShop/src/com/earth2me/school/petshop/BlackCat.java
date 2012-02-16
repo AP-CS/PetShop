@@ -1,41 +1,41 @@
-package com.earth2me.school;
+package com.earth2me.school.petshop;
 
 /**
- * A pet white cat.
+ * A pet black cat.
  * 
  * @author Paul Buonopane
  * @version 1.0.0
  * @category APCS
  * @school Medfield High School
  */
-final class WhiteCat extends Cat
+final class BlackCat extends Cat
 {
 	/**
-	 * Instantiates a new white cat.
+	 * Instantiates a new black cat.
 	 * 
 	 * @param name
 	 *            The name of the new cat.
 	 */
-	public WhiteCat(String name)
+	public BlackCat(String name)
 	{
-		super(name, "purrrr...");
+		super(name, "MEOW");
 	}
 	
 	@Override
 	public String getAnimal()
 	{
-		return "white cat";
+		return "black cat";
 	}
 
 	@Override
 	public Color getColor()
 	{
-		return Color.White;
+		return Color.Black;
 	}
 
 	@Override
 	public int getFluffIndex()
 	{
-		return 12;
+		return 5;
 	}
 }

@@ -1,4 +1,4 @@
-package com.earth2me.school;
+package com.earth2me.school.petshop;
 
 /**
  * Provides a basic performer that simply echos text.

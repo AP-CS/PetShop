@@ -1,4 +1,4 @@
-package com.earth2me.school;
+package com.earth2me.school.petshop;
 
 /**
  * Signifies that the implementing pet has a fluff index.
